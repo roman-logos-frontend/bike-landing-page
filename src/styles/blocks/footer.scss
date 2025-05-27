@@ -2,6 +2,11 @@
   position: sticky;
   z-index: -1;
 
+  &__link{
+    height: 100%;
+    display: flex;
+  }
+
   &__img {
     width: 100%;
   }
